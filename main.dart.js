@@ -132721,7 +132721,7 @@ for(;;)switch(s){case 0:q.Y(new A.aRk(q))
 return A.x(null,r)}})
 return A.y($async$ai,r)},
 I(a){return new A.hm(new A.p9(new A.aRj(this),null),0,null)},
-amL(){var s,r,q,p=null,o=t.p,n=A.lS(p,A.aZ(A.b([A.aIc(new A.k1(B.bqL,B.lu,p),"Last 7 Days"),B.aM,B.ag9],o),B.aj,B.F,B.H,0,B.S),p),m=A.aIc(p,"Today's WorkLogs")
+amL(a){var s,r,q,p=null,o=t.p,n=A.lS(p,A.aZ(A.b([A.aIc(new A.k1(B.bqL,B.lu,p),"Last 7 Days"),B.aM,B.ag9],o),B.aj,B.F,B.H,0,B.S),p),m=A.aIc(p,"Today's WorkLogs")
 $.ao()
 s=$.a5
 if(s==null)s=$.a5=B.Y
@@ -132739,7 +132739,7 @@ $0(){this.a.e=!1},
 $S:0}
 A.aRj.prototype={
 $0(){var s=null,r=this.a
-return r.e?B.cD:A.ef(new A.bx(B.ko,A.aZ(A.b([r.amL()],t.p),B.aj,B.F,B.H,0,B.S),s),s,s,s,s,B.aq)},
+return r.e?B.cD:A.ef(new A.bx(B.ko,A.aZ(A.b([r.amL(r.d.ax.gp(0))],t.p),B.aj,B.F,B.H,0,B.S),s),s,s,s,s,B.aq)},
 $S:181}
 A.aRi.prototype={
 $3(a,b,c){return new A.rU(c,null)},
