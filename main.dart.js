@@ -144238,7 +144238,7 @@ s=this.e
 if(s.length===0)return new A.ay(B.aS,A.cD(A.a0(A.b([A.bk(B.li,B.M,q,48),B.a1,A.p("No work logs in the last 7 days",q,q,q,B.aa.af(B.M),q,q,q)],t.p),B.w,B.r,B.q,0,B.B),q,q),q)
 r=A.b([A.a9V(q,"Summary of the last 7 days"),B.a1],t.p)
 B.f.F(r,new A.T(s,new A.bgs(this),A.Y(s).i("T<1,f>")))
-return new A.ay(B.eI,A.af(A.dA(A.a0(r,B.Q,B.r,B.q,0,B.B),q,q,q,B.ao),1),q)},
+return new A.ay(B.eI,A.dA(A.a0(r,B.Q,B.r,B.q,0,B.B),q,q,q,B.ao),q)},
 aso(a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=null,a=a4.b,a0=this.aj6(a),a1=A.aa(8),a2=A.cF(B.a8,1),a3=a4.a
 if(a3==null)a3=""
 s=a.length
